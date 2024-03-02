@@ -7,7 +7,7 @@
 
 <br>
 
-- ## Link do arquivo que contém a pesquisa do tema proposto
+## Link do arquivo que contém a pesquisa do tema proposto
 - [Pesquisa](https://docs.google.com/document/d/1UxeDANGQ1g59SUbXjuNu4vjDYAelM0G9/edit?usp=sharing&ouid=100781734518347389770&rtpof=true&sd=true)
 
 
