@@ -1,5 +1,5 @@
-# ImagemDocker
-Atividade sugerida: Construção de uma imagem docker de uma aplicação baseada em django
+# Atividade sugerida: Construção de uma imagem docker de uma aplicação baseada em django
+
 
 ## Página que utilizei como fonte para realização da atividade
 
